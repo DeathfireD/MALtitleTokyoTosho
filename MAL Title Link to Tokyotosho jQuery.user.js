@@ -2,7 +2,7 @@
 // @name         MAL Title Link to Tokyotosho
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Adds a Tokyotosho search link to the right of MAL Titles
+// @description  Turns MAL main titles into TokyoTosho search links
 // @author       DeathfireD
 // @match        https://myanimelist.net/anime/*
 // @grant        none
